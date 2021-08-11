@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "kkyun server demo",
+  "main": "server.js",
+  "author": "kaikeyun",
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "node-fetch": "^2.6.1"
+  }
+}
