@@ -1,4 +1,4 @@
 kkyun server demo
 ========
 
-kkyun server api demo on socket.io
+kkyun server api demo
